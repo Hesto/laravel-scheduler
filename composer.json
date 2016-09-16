@@ -1,0 +1,19 @@
+{
+    "name": "hesto/laravel-scheduler",
+    "description": "Scheduler for laravel 5",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hesto",
+            "email": "losiakp@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },    
+    "autoload": {
+        "psr-4": {
+            "Hesto\\LaravelScheduler\\": "src/"
+        }
+    }
+}
